@@ -7,3 +7,25 @@
     Triângulo escaleno: possui todos os lados diferentes (A<>B e B <> C)
     Triângulo eqüilátero: possui todos os lados iguais (A=B e B=C)
 */
+
+
+let a = 2;
+let b = 3;
+let c = 7;
+
+function triangulo(a, b, c) {
+    let isTriangle = a < b + c && b < a + c && c < a + b;
+    if (isTriangle) {
+        if (a == b && b == c) {
+            console.log("Triângulo equilátero");
+        } else if (a == b || a == c || b == c) {
+            console.log("Triângulo isósceles");
+        } else {
+            console.log("Triângulo escaleno");
+        }
+    } else {
+        console.log("Esses valores não formam um triângulo!");
+    }
+}
+
+triangulo(a, b, c);
