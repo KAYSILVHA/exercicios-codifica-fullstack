@@ -67,4 +67,56 @@ valor correspondente em graus Fahrenheit.
 <hr>
 <br>
 
+<p>
+
+## 👥 Número de Eleitores
+
+Escreva um algoritmo para ler o número de eleitores de um município, o número de
+votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa
+em relação ao total de eleitores.
+```
+[Exemplo de dados de entrada]
+    200 (quantidade de eleitores)
+     10 (quantidade de votos brancos)
+     20 (quantidade de votos nulos)
+    160 (quantidade de votos válidos)
+[Saída para os dados de entrada acima]
+      5 (percentual de votos brancos)
+     10 (percentual de votos nulos)
+     80 (percentual de votos válidos)
+```
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./EXERCICIO-2/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
+
+<p>
+
+## ➕ Operações
+
+Faça um algoritmo que leia quatro números inteiros e realize as seguintes operações:
+  ● Some 25 ao primeiro inteiro;
+  
+  ● Triplique o valor do segundo inteiro;
+  
+  ● Modifique o valor do terceiro inteiro para 12% do valor original;
+  
+  ● Armazene no quarto inteiro a soma dos valores originais (os que o usuário digitou)
+  dos primeiros três inteiros.
+
+</p>
+
+<p>
+<strong>RESPOSTA: <a href="./EXERCICIO-3/script.js">CLIQUE AQUI!</a></strong>
+</p>
+
+
+<hr>
+<br>
 
