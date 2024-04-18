@@ -5,7 +5,7 @@
 
 function solicitarTemperatura() {
     function celsiusToFahrenheit(tempCelsius) {
-        return (tempCelsius * 9/5) + 32;
+        return (tempCelsius * 9 / 5) + 32;
     }
     let inputCelsius = prompt("Digite a temperatura em graus Celsius:");
 

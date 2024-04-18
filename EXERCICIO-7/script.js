@@ -10,7 +10,7 @@ let quantidadeDeMacas = 15;
 function valorMacas(quantidadeDeMacas) {
     if (quantidadeDeMacas < 12) {
         console.log("Valor das Maçãs: R$ " + (quantidadeDeMacas * 0.3).toFixed(2));
-    } else if( quantidadeDeMacas >= 12){
+    } else if (quantidadeDeMacas >= 12) {
         console.log("Valor das Maçãs: R$ " + (quantidadeDeMacas * 0.25).toFixed(2))
     }
 }

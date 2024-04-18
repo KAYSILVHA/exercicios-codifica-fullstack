@@ -12,12 +12,12 @@ function realizarOperacoes(primeiraNota, segundaNota) {
     let media = (primeiraNota + segundaNota) / 2
     console.log("Média: " + media);
 
-    if(media >= 6){
+    if (media >= 6) {
         console.log("Parabéns! Você foi aprovado(a)!");
-    } else{
+    } else {
         console.log("Infelizmente você reprovou! Estude mais");
     }
-    
+
 
 }
 

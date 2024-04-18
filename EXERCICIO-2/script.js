@@ -12,7 +12,7 @@ let quantidadeDeVotosValidos = 160;
 
 function calcularPercentual(quantidadeDeEleitores, quantidadeDeVotosBrancos, quantidadeDeVotosNulos, quantidadeDeVotosValidos) {
     let totalVotos = quantidadeDeVotosBrancos + quantidadeDeVotosNulos + quantidadeDeVotosValidos;
-    
+
     let percBrancos = (quantidadeDeVotosBrancos / quantidadeDeEleitores) * 100;
     let percNulos = (quantidadeDeVotosNulos / quantidadeDeEleitores) * 100;
     let percValidos = (quantidadeDeVotosValidos / quantidadeDeEleitores) * 100;

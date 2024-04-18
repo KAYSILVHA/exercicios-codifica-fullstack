@@ -15,17 +15,17 @@ let terceiro = 10;
 let quarto;
 
 function realizarOperacoes(primeiro, segundo, terceiro, quarto) {
-    
+
     primeiro += 25;
     segundo *= 3;
-    terceiro = (terceiro * 12)/100;
-    quarto = primeiro+ segundo+terceiro
+    terceiro = (terceiro * 12) / 100;
+    quarto = primeiro + segundo + terceiro
 
     console.log("Primeiro: " + primeiro);
     console.log("Segundo: " + segundo);
     console.log("Terceiro: " + terceiro);
     console.log("Quarto: " + quarto);
-    
+
 }
 
 realizarOperacoes(primeiro, segundo, terceiro, quarto);

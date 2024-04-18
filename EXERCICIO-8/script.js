@@ -14,10 +14,10 @@ function ordenar(primeiroValor, segundoValor) {
         let maior;
         let menor;
 
-        if(primeiroValor > segundoValor){
+        if (primeiroValor > segundoValor) {
             maior = primeiroValor;
             menor = segundoValor
-        } else{
+        } else {
             maior = segundoValor;
             menor = primeiroValor;
         }
