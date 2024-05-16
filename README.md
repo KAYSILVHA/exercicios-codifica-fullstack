@@ -17,7 +17,7 @@ Exercícios propostos pela formação Fullstack oferecida pela <a href="https://
 
 <br> 
 
->🟡 Projeto em construção
+>🟢 Projeto Finalizado
 
 > <strong>Deixa uma estrelinha?🙏⭐</strong>
 
